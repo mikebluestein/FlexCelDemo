@@ -5,4 +5,4 @@ This is an example application to demonstrate how to use the TMS FlexCel compone
 
 License:
 
-This code is licensed under the terms of the MIT/X11 license.
+This code is licensed under the terms of the MIT.
